@@ -1,4 +1,4 @@
-<?PHP
+outro! <?PHP
 
 system("set");
 
