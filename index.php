@@ -1,6 +1,6 @@
 <?PHP
 
-print_r($_ENV);
+system("set");
 
 phpinfo();
 
